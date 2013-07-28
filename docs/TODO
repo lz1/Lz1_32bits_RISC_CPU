@@ -1,0 +1,7 @@
+- verilog JTAG controller + PLI interface.
+- i+d cache.
+- interrupts.
+- I/D arbiter for shared instruction/data memory.
+- gpio for signalling board status.
+- reset signal to cpu core.
+- byteswapping in debugger protocol.
